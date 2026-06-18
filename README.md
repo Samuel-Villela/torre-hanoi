@@ -1,2 +1,2 @@
 # torre-hanoi
-Projeto de extensão Des. Art. Tec. - Torre de Hanoi
+Projeto de extensão em grupo Des. Art. Tec. - Torre de Hanoi
